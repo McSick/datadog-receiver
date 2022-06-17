@@ -1,4 +1,4 @@
-module github.com/McSick/datadog-receiver
+module github.com/McSick/datadogreceiver
 
 go 1.17
 
